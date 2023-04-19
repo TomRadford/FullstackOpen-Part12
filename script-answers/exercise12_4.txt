@@ -1,0 +1,7 @@
+root@c547c0a18ab6:/# curl -sL https://deb.nodesource.com/setup_18.x | bash
+bash: curl: command not found
+root@c547c0a18ab6:/# apt install curl
+root@c547c0a18ab6:/# apt install -y nodejs
+root@c547c0a18ab6:/# node /usr/src/app.js
+Hello world
+root@c547c0a18ab6:/# exit

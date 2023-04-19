@@ -1,0 +1,4 @@
+docker start -i agitated_mendel
+root@c547c0a18ab6:/# apt update
+root@c547c0a18ab6:/# apt install nvim
+root@c547c0a18ab6:/# vim /usr/src/app.js
