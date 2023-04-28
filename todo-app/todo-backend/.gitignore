@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+#Docker bind mounts
+mongo_data
+redis_data
+prod_mongo_data
+prod_redis_data
